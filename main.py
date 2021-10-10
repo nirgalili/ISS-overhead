@@ -3,9 +3,9 @@ from datetime import datetime
 import smtplib
 import time
 
-
-MY_EMAIL = "pvcnya@gmail.com"
-MY_PASSWORD = "pvcnya2013"
+# Enter your email and password here inside quotation marks ("")
+MY_EMAIL = ""
+MY_PASSWORD = ""
 
 MY_LATITUDE = 32.181412
 MY_LONGITUDE = 34.872669
